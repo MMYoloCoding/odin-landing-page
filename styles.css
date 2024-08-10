@@ -1,5 +1,5 @@
 * {
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
 }
 
 .flex-container-h {
@@ -88,5 +88,6 @@ section3-infoText {
     font-size: 36px;
     font-style: italic;
     color: #1F2937;
-    font-weight: 1;
+    font-weight: 300;
+    
 }
